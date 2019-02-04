@@ -1,0 +1,17 @@
+1) gst 
+2) isactive
+11) isactive
+14) is_qty
+
+isactive nu update bnavu
+invoice nu aakhu page jovu
+purchase maate more details nu page bnavu jo tym re to
+12) phone no ni data type badalvi
+
+
+
+16/5
+
+1)  phone no. na isactive ni datatype boolean karvi
+2) voucher table ma from id to id nu vicharvu
+3) bdha table ni primary key auto increment che k nai e jovi nd purchase ni to nathij
